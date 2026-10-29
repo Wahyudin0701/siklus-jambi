@@ -1,0 +1,18 @@
+{
+  "name": "SiklusJambi - Sirkular Limbah Kuliner",
+  "short_name": "SiklusJambi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A5C36",
+  "theme_color": "#0A5C36",
+  "orientation": "portrait",
+  "description": "Platform jemput limbah kuliner & sertifikasi Warung Sehat Kota Jambi untuk pasokan Bioavtur SAF PT Pertamina",
+  "icons": [
+    {
+      "src": "/images/mockups/halaman_loading.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
